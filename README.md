@@ -6,6 +6,9 @@ UI Clone - Discord - Hulk Customization
 <p align="center">Deployed <a href="https://rocketseat-discord-clone.netlify.app/">here</a>.</p>
 
 <hr>
+## Image
+<img src ="https://user-images.githubusercontent.com/62508848/85351028-15828680-b4d9-11ea-9a00-2fc3ea78a256.png">
+
 
 ## Participants
 
