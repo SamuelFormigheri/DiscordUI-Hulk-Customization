@@ -3,7 +3,6 @@ UI Clone - Discord - Hulk Customization
 </h1>
 
 <p align="center">Discord UI Clone and applied the theme of Hulk with the characters from Avangers.</p>
-<p align="center">Deployed <a href="https://rocketseat-discord-clone.netlify.app/">here</a>.</p>
 
 <hr>
 
